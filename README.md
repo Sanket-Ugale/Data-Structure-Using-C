@@ -1,4 +1,6 @@
- <h2 align="center">Data Structure Using C</h2>
+# Data Structure Using C
+
+<span></span>
     <br>
         <div align="center">This repository contains CODE's for Data Structure Using C.</div>
         <br>
