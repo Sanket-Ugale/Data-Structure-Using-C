@@ -1,9 +1,5 @@
  <h2 align="center">Data Structure Using C</h2>
     <br>
-    <span align="center">
-        <hr width="70%" />
-      </span><br>
-      <span>
         <div align="center">This repository contains CODE's for Data Structure Using C.</div>
         <br>
         <h2>Data Structures:</h2>
@@ -25,7 +21,7 @@
         16. Infix to Postfix
         <br><br>
         <span align="center">
-            <hr width="70%" />
+            <hr width="80%" />
           </span>
         <h3>Searching & Sorting: </h3>
             1. Bubble Sort <br>
@@ -33,6 +29,6 @@
             3. Quick Sort <br>
             4. Slection Sort <br>
             5. Merge Sort <br>
-            6. Count Sort <br>
-       
-      </span>
+            6. Count Sort <br><br><br>
+      
+      
